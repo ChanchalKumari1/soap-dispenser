@@ -1,2 +1,2 @@
 # soap-dispenser
-nrf52840 based soap dispenser
+NRF52832-QFAB-G-R7 based soap dispenser
